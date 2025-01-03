@@ -1,5 +1,3 @@
-# Zuma_realtors
- 
 Zuma Realtors
 
 EXECUTIVE SUMMARY
@@ -70,8 +68,3 @@ analysis tools.
 C. RapidAPI:
 Facilitates easy access to a vast array of real estate APIs, streamlining data extraction
 and integration processes.
-
-TECH STACK
-
-A. Here is the link to the data source ⇒⇒⇒ LINK
-DATA SOURCE
